@@ -1,0 +1,100 @@
+{
+  "contacts": [
+    {
+      "nom": "Rerum voluptates sed",
+      "prenom": "Rerum labore irure e",
+      "email": "monmail@messagerie.fr",
+      "tel": "+33 6 01 01 01 01",
+      "rue": "378 Boulevard de la République",
+      "appt": "Appartement 578",
+      "codePostal": "59140",
+      "ville": "Dunkerque",
+      "categorie": "Famille",
+      "id": "1644970279085"
+    },
+    {
+      "nom": "Fugit impedit offi",
+      "prenom": "Impedit velit tempo",
+      "email": "adresse@gmail.com",
+      "tel": "+33 6 02 01 04 05",
+      "rue": "18 Boulevard de la Liberté",
+      "appt": "Appartement 30",
+      "codePostal": "59000",
+      "ville": "Lille",
+      "categorie": "Travail",
+      "id": "1645140574309"
+    },
+    {
+      "nom": "hidri pp",
+      "prenom": "ryan pp",
+      "email": "mail@afpa.fr",
+      "tel": "+33 6 01 02 03 04",
+      "rue": "168 Boulevard Curie",
+      "appt": "Centre AFPA",
+      "codePostal": "62100",
+      "ville": "Calais",
+      "categorie": "Formateur",
+      "id": "1645141867947"
+    },
+    {
+      "id": "1645143977964",
+      "nom": "test nom",
+      "prenom": "test prenom",
+      "email": "collegue_1@outlook.com",
+      "tel": "+33 6 08 08 07 04",
+      "rue": "168 Boulevard Curie",
+      "appt": "",
+      "codePostal": "62100",
+      "ville": "Calais",
+      "categorie": "Travail"
+    },
+    {
+      "nom": "Et excepteur molesti",
+      "prenom": "Molestiae eos corru",
+      "email": "collegue_2@gmail.com",
+      "tel": "+33 6 07 08 09 10",
+      "rue": "18 Rue du Sud",
+      "appt": "",
+      "codePostal": "59140",
+      "ville": "Dunkerque",
+      "categorie": "Travail",
+      "id": "1645612509797"
+    },
+    {
+      "id": "1646832691610",
+      "nom": "Bertrand",
+      "prenom": "Alexandre",
+      "email": "alexandrebertrand60@yahoo.fr",
+      "tel": "06 46 46 36 58",
+      "rue": "45 Boulevard Paul Verley",
+      "appt": "Appt 67",
+      "codePostal": "59140",
+      "ville": "Dunkerque",
+      "categorie": "Amis"
+    },
+    {
+      "nom": "Serien",
+      "prenom": "Jean",
+      "email": "serien.jean@mail.com",
+      "tel": "+33 3 65 65 65 65",
+      "rue": "Grand Place",
+      "appt": "",
+      "codePostal": "59000",
+      "ville": "Lille",
+      "categorie": "Autre",
+      "id": "1646899753751"
+    },
+    {
+      "id": "1647205673788",
+      "nom": "Mionette",
+      "prenom": "Jessica",
+      "email": "",
+      "tel": "",
+      "rue": "",
+      "appt": "",
+      "codePostal": "",
+      "ville": "",
+      "categorie": "Autre"
+    }
+  ]
+}
